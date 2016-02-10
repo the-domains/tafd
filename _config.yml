@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.3661888
+color:
+  saturation: 0.7066905
+  lightness: 0.3996415
+  brandStrength: 0.2319582
+  brandColors:
+    - '#89654A'
+    - '#4B3127'
+    - '#160C0E'
+    - '#FFFFFB'
+    - '#EA9A91'
+  rhythmicContrast: 0.7066905
+name: TAFD
